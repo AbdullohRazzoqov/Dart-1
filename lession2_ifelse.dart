@@ -1,5 +1,4 @@
 void main() {
-  
 // int number = 100;
 // number = 100.0;
 
@@ -28,7 +27,6 @@ void main() {
   //va buni bir qiymatga tenglab yuborish mumkin.
 
   int kattaSon = number > number2 ? number : number2;
-  
 
 //3 SWITCH CASE
 
@@ -46,4 +44,23 @@ void main() {
     default:
       print("Qiymat yo'q");
   }
+
+  //&& = *
+  //true = 1
+  //false = 0
+  print(true && true);  //true
+  print(true && false); //false
+  print(false && true); //false
+  print(false && false);//false
+
+
+  //+
+  print(true || true);  //true
+  print(true || false); //true
+  print(false || true); //true
+  print(false || false);//false
+
+
+  
+
 }
