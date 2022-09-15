@@ -1,7 +1,7 @@
-//LOOP bir amalni bir qancah marta bajarish uchun ishlatamaiz
+//LOOP bir amalni bir necha marta qayta bajarish uchun ishlatamiz
 
 void main() {
-  //FOR      -> Index hisobi anqi bo'lganda vaqt ishlatish avzal
+  //FOR      -> Index hisobi aniq bo'lgan vaqt ishlatish avzal
   //WHILE    -> Asosan shart tugamagan holatda ishlatiladi
   //DO WHILE -> Oldin bajarib kiyin sharni tekshirish uchun
 

@@ -15,6 +15,8 @@ void main() {
 
   //CONST   - Elon qilinishi bilan RAMdan joy egallaydi 
 
+  //DYNAMIC - Typeni saqlamaydi hohlagan o'zgaruvchiga o'zgartirsak bo'ladi
+
   //NUMBER  - Int = 10, Double = 10.0,
 
   //STRING  - "ABS", '''ABS''', 'ABS',
@@ -37,13 +39,13 @@ void main() {
 
   //PRIMITIVE - Int, Double, String, BOOLEAN,
 
-  //RECERENCE - List, Map, Set,
+  //RECERENCE (NoPRIMITIVE) - List, Map, Set,
 
   //RECERENCE =  List l = [11, 11, 11];
   //              List l2 = l;
   //Agar l2 o'zgartirsam l ning qiymati ham o'zgaradi
 
-  //String Interpolation - Sting ichida amallar bajarish
+  //String Interpolation - String ichida amallar bajarish
 
   print("Hi $numbers");
   print("Hi ${12 + 10}");
