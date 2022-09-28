@@ -27,4 +27,9 @@ void main() {
   //AND yani &&  -> Tengliknin ikkal tomon true bo’lishi kerak
 
   //While va DO WHILE farqi DO WHILE bir marta ko'p ishlaydi
+
+  // String -> sempillar ketma-ketligi
+
+  // Collection -> List, Set, Map, Queue
+  
 }
